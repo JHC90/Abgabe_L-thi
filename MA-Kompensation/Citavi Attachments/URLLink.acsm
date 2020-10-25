@@ -1,0 +1,28 @@
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:6d96bec1-9f8e-41d3-b788-2bb6b5c49b42</distributor>
+  <operatorURL>http://fulfill.ciando.com/fulfillment</operatorURL>
+  <expiration>52780-11-10T22:10:44+01:00</expiration>
+  <transaction>30215301_1D</transaction>
+  <resourceItemInfo>
+    <resource>urn:uuid:c89870af-e1d6-43e8-a1a4-ccd125e1f85e</resource>
+    <resourceItem>1</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Wissenschaftliches Arbeiten - Ethik Inhalt Form wiss Arbeiten Handwerkszeug Quellen Projektmanagement Praesentation</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Helmut Balzert Marion Schroeder Christian Schaefer</dc:creator>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Springer Campus</dc:publisher>
+      <thumbnailURL>http://fulfill.ciando.com/books/c89870af-e1d6-43e8-a1a4-ccd125e1f85e.jpg</thumbnailURL>
+    </metadata>
+    <src>http://fulfill.ciando.com/books/c89870af-e1d6-43e8-a1a4-ccd125e1f85e.pdf</src>
+    <downloadType>simple</downloadType>
+    <licenseToken>
+      <resource>urn:uuid:c89870af-e1d6-43e8-a1a4-ccd125e1f85e</resource>
+      <permissions>
+        <display/>
+        <excerpt/>
+        <print/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>31bg5uq6VFh/dXRdTSZsw5sv//g=</hmac>
+</fulfillmentToken>
